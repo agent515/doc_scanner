@@ -28,10 +28,11 @@
 	<string>Main</string>
 	<key>UISupportedInterfaceOrientations</key>
 
-	<key>NSCameraUsageDescription</key>
-    <string>Can I use the camera please?</string>
-    <key>NSMicrophoneUsageDescription</key>
-    <string>Can I use the mic please?</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>Allow access to photo library</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Allow access to camera to capture photos</string>
+
 
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
